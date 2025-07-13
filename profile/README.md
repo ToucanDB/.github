@@ -1,3 +1,3 @@
 ## ToucanDB is a LLM vector database that stores and manages unstructured data
 
-<img width="450" height="450" alt="Image" src="https://github.com/user-attachments/assets/9ecf11e4-a710-4d19-87ec-29e8ac3301f3" />
+<img width="260" height="260" alt="LLM ML vector database engine" src="https://github.com/user-attachments/assets/6e9fc7a4-0a30-43eb-8ae4-a6e2f458ae01" />
